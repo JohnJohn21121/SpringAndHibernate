@@ -15,6 +15,11 @@
  		class="com.JohnJohn21121.TrackCoach">
  	</bean>
 
+	<bean id="boxingCoach"
+		  class="com.JohnJohn21121.BoxingCoach">
+	</bean>
+
+
     <!--
     <bean id="myCoach"
         class="com.luv2code.springdemo.BaseballCoach">         
