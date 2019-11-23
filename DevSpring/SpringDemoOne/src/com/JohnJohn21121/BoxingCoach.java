@@ -17,4 +17,13 @@ public class BoxingCoach implements Coach {
     public String getDailyFortune() {
         return fortuneService.getFortune();
     }
+
+    //add an init method
+    public void doMyStartUpStuff(){
+        System.out.println("Inside StartUp");
+    }
+    //add a destroy method
+    public void doMyCleanUpStuff(){
+        System.out.println("Inside CleanUp");
+    }
 }
