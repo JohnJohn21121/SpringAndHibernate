@@ -8,4 +8,9 @@ public class KarateCoach implements Coach {
     public String getDailyWorkOut() {
         return "Practice the Water Kata.";
     }
+
+    @Override
+    public String getDailyFortune() {
+        return null;
+    }
 }

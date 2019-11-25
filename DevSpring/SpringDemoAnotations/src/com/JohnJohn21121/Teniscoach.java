@@ -9,4 +9,9 @@ public class Teniscoach implements Coach {
     public String getDailyWorkOut() {
         return "Practice Your BackHand Volley";
     }
+
+    @Override
+    public String getDailyFortune() {
+        return null;
+    }
 }

@@ -24,6 +24,7 @@ public class AnnotationDemoApp {
         System.out.println(theCoach.getDailyWorkOut());
         System.out.println("Boxing Coach says : " + boxCoach.getDailyWorkOut());
         System.out.println("Karate Coach says : " + kCoach.getDailyWorkOut());
+        System.out.println(boxCoach.getDailyFortune());
 
     //close context
 
