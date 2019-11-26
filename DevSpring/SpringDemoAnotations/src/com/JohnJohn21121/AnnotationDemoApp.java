@@ -24,6 +24,8 @@ public class AnnotationDemoApp {
         System.out.println("Karate Coach says : " + kCoach.getDailyWorkOut());
         System.out.println(kCoach.getDailyFortune());
 
+        System.out.println(theCoach.getDailyFortune());
+
     //close context
 
         context.close();
