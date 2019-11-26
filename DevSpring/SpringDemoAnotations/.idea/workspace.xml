@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6727d8c7-8c25-4124-a453-f7283bcec018" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/JohnJohn21121/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JohnJohn21121/AnnotationDemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/JohnJohn21121/BoxingCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JohnJohn21121/BoxingCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/JohnJohn21121/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JohnJohn21121/Coach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/JohnJohn21121/KarateCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JohnJohn21121/KarateCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/JohnJohn21121/Teniscoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JohnJohn21121/Teniscoach.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,20 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/KarateCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="272">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/BoxingCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="289">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -81,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/AnnotationDemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="442">
               <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
             </state>
           </provider>
@@ -109,13 +105,13 @@
         <option value="$PROJECT_DIR$/src/com/JohnJohn21121/HappyFortuneService.java" />
         <option value="$PROJECT_DIR$/src/com/JohnJohn21121/Coach.java" />
         <option value="$PROJECT_DIR$/src/com/JohnJohn21121/Teniscoach.java" />
-        <option value="$PROJECT_DIR$/src/com/JohnJohn21121/KarateCoach.java" />
         <option value="$PROJECT_DIR$/src/com/JohnJohn21121/AnnotationDemoApp.java" />
         <option value="$PROJECT_DIR$/src/com/JohnJohn21121/BoxingCoach.java" />
+        <option value="$PROJECT_DIR$/src/com/JohnJohn21121/KarateCoach.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1205" />
     <option name="height" value="910" />
@@ -126,7 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,6 +145,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,6 +212,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,6 +258,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/CuloDeperro.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/HappyFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -268,17 +272,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/Teniscoach.java">
+    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/FortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/KarateCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -291,29 +288,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/AnnotationDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="442">
           <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/HappyFortuneService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/Teniscoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/FortuneService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/BoxingCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="289">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JohnJohn21121/KarateCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>

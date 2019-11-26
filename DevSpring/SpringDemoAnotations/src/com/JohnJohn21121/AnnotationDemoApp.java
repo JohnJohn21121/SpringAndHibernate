@@ -21,10 +21,8 @@ public class AnnotationDemoApp {
 
         //call method on a bean
 
-        System.out.println(theCoach.getDailyWorkOut());
-        System.out.println("Boxing Coach says : " + boxCoach.getDailyWorkOut());
         System.out.println("Karate Coach says : " + kCoach.getDailyWorkOut());
-        System.out.println(boxCoach.getDailyFortune());
+        System.out.println(kCoach.getDailyFortune());
 
     //close context
 
