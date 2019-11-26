@@ -1,17 +1,15 @@
 package com.JohnJohn21121;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
 public class BoxingCoach implements Coach{
 
-    private FortuneService fortuneService;
-
     @Autowired
-    public BoxingCoach(FortuneService fortuneService) {
-        this.fortuneService = fortuneService;
-    }
+    @Qualifier("stoicFortune")
+    private FortuneService fortuneService;
 
     @Override
     public String getDailyWorkOut() {
