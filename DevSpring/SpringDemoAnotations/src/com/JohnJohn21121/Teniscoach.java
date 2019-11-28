@@ -2,9 +2,11 @@ package com.JohnJohn21121;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Component("thatSillyCoach")
+@Scope("prototype")
 public class Teniscoach implements Coach {
 
     @Autowired
