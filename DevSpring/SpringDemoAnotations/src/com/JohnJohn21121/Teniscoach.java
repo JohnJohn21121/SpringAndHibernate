@@ -5,9 +5,6 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
-
 @Component("thatSillyCoach")
 @Scope
 public class Teniscoach implements Coach {
@@ -27,12 +24,12 @@ public class Teniscoach implements Coach {
     }
 
     //add init method
-    @PostConstruct
+    //@PostConstruct
     public void doMyStartUpStuff(){
         System.out.println("Inside init method for Tennis Coach");
     }
     //add destroy method
-    @PreDestroy
+    //@PreDestroy
     public void doMyCleanUpStuff(){
         System.out.println("Inside Destroy method for tennis Coach");
     }
