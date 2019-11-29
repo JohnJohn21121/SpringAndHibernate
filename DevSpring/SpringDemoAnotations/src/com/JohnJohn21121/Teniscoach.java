@@ -5,8 +5,11 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 @Component("thatSillyCoach")
-@Scope("prototype")
+@Scope
 public class Teniscoach implements Coach {
 
     @Autowired
@@ -22,4 +25,16 @@ public class Teniscoach implements Coach {
     public String getDailyFortune() {
         return fortuneService.getDailyFortune();
     }
+
+    //add init method
+    @PostConstruct
+    public void doMyStartUpStuff(){
+        System.out.println("Inside init method for Tennis Coach");
+    }
+    //add destroy method
+    @PreDestroy
+    public void doMyCleanUpStuff(){
+        System.out.println("Inside Destroy method for tennis Coach");
+    }
+
 }
