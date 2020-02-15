@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4246da7-02d5-411e-aa90-ed4e6a124f12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/JohnJohn21121/Dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/JohnJohn21121/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevSpring/SpringDemoAnotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevSpring/SpringDemoAnotations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevSpring/SpringDemoAnotations/out/production/SpringDemoAnnotations/META-INF/SpringDemoAnnotations.kotlin_module" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XaBp854RcjfqX8hN1zoAHCW8xX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Huenei-School" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\johna\Documents\GitHub\Spring&amp;Hibernate\SpringBoot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.JohnJohn21121.Main" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.JohnJohn21121.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4246da7-02d5-411e-aa90-ed4e6a124f12" name="Default Changelist" comment="" />
+      <created>1581269066202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581269066202</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581274629827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1581274629827" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581639967816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581639967816" />
+    <state width="1537" height="202" key="GridCell.Tab.0.bottom" timestamp="1581278368377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581278368377" />
+    <state width="1537" height="202" key="GridCell.Tab.0.center" timestamp="1581278368376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581278368376" />
+    <state width="1537" height="202" key="GridCell.Tab.0.left" timestamp="1581278368376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581278368376" />
+    <state width="1537" height="202" key="GridCell.Tab.0.right" timestamp="1581278368376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581278368376" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1581274917667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581274917667" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
