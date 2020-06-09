@@ -10,14 +10,15 @@ import org.hibernate.service.ServiceRegistry;
 public class App 
 {
     public static void main( String[] args ){
-        Quotes quotes = new Quotes();
+       
+    	Quotes quotes = new Quotes();
         quotes.setQuote("It may see difficult at first, but everything is difficult at First");
         quotes.setYear(1643);
     	Philosopher philosopher = new Philosopher();
     	philosopher.setId(1);
     	philosopher.setName("Miyamoto Musashi");
     	philosopher.setBranch("The Way of the Void");
-    	philosopher.setQuotes(quotes);
+     	philosopher.setQuotes(quotes);
     	
     	Configuration con = new Configuration().configure("hibernate.cfg.xml")
     			.addAnnotatedClass(Philosopher.class);
